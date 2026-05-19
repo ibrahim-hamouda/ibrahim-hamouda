@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ibrahim Hamouda 👋
 
-<!--
-**ibrahim-hamouda/ibrahim-hamouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Python Automation Enthusiast & Communication Engineering Student
+Communication Engineering Student passionate about Python Programming & Network Automation. Currently gaining industry experience as a Python Intern at Decode Labs.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently gaining industry experience as a **Python Programming Intern at Decode Labs**.
+- 🎓 Studying **Communication Engineering at Suez Canal University**.
+- 🛠️ I love working with: **Python, Linux,and Git**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C, Java, Bash, HTML/CSS/JS
+- **Networking:** Cisco Packet Tracer, OSPF, VLANs, NAT
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [https://www.linkedin.com/in/ibrahimhamoudaa/]
+- **Email:** [ibrahimhamouda175@gmail.com]
