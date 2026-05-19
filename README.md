@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Hamouda</h1>
 <h3 align="center">Communication Engineering Student & Python Programming Intern</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ibrahimhamoudaa/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
 ---
 
 ### 🔭 About Me
@@ -14,6 +8,15 @@
 - 🎓 Studying **Communication Engineering at Suez Canal University**.
 - 🛠️ Passionate about **Python Automation**, Networking, and Cloud Tech.
 - 📫 How to reach me: **ibrahimhamouda175@gmail.com**
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ibrahimhamoudaa/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
+</p>
 
 ---
 
