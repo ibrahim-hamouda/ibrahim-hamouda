@@ -4,7 +4,6 @@
 ---
 
 ### 🔭 About Me
-- 🚀 I’m currently gaining industry experience as a **Python Programming Intern at Decode Labs**.
 - 🎓 Studying **Communication Engineering at Suez Canal University**.
 - 🛠️ Passionate about **Python Automation**, Networking, and Cloud Tech.
 - 📫 How to reach me: **ibrahimhamouda175@gmail.com**
